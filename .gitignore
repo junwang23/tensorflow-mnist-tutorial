@@ -6,3 +6,5 @@ MNIST-data
 log
 checkpoints
 MANIFEST
+results
+.vscode
